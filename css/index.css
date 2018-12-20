@@ -1,0 +1,42 @@
+body{
+	background-color: #555555;
+}
+div{
+	border: 0px solid red; 
+}
+p{
+	text-align: center;
+}
+nav{
+	width: 100%;
+	z-index: 9;
+}
+#logopic{
+	position: absolute;
+	z-index: 10;
+	width: 160px;
+	padding-top: 1px;
+}
+#bannerpic{
+	width: 100%;
+}
+#contentleftpic{
+	padding: 5px;
+}
+#productpic{
+	padding-top: 10px;
+}
+#firstfootercontact{
+	padding-top: 10px;
+}
+.footercontact{
+	text-align: left;
+	color: #F5B16D;
+	padding-left: 5%;
+	font-size: 14px;
+}
+#logopiccontact{
+	 
+}
+
+
