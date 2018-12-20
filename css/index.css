@@ -19,9 +19,11 @@ nav{
 }
 #bannerpic{
 	width: 100%;
+	margin-bottom: 5px;
 }
 #contentleftpic{
-	padding: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 #productpic{
 	padding-top: 10px;
